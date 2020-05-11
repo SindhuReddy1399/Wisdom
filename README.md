@@ -6,6 +6,10 @@ Collected wisdom about software development.
 
 Source: Jon L. Bentley, Programming Pearls
 
+> “Understand the difference between a programmer and an engineer. A programmer writes code and an engineer builds things that work. And they're not the same thing.”
+
+Source: [Rob Pike](https://youtu.be/RIvL2ONhFBI?t=3304)
+
 - [10 Habits of a Good Programmer](http://hintjens.com/blog:98) by Pieter Hintjens
 
 > Concepts every programmer should know & use but few do: actors, state machines, model languages.
